@@ -5,9 +5,14 @@ HeyTask
 
 #### scheduler
 
-> dotnet run
+```
+dotnet run
+```
+> 
 
 #### docker
 
-> docker build -t heytask .
-> docker run heytask
+```
+docker build -t heytask .
+docker run heytask
+```
