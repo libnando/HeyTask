@@ -1,11 +1,13 @@
-# HeyTask
-.Net Core (2.1) Scheduler (quartz) with Docker
+HeyTask
+======
 
-# scheduler
+### .Net Core (2.1) Scheduler (quartz) with Docker
 
-dotnet run
+#### scheduler
 
-# docker
+> dotnet run
 
-docker build -t heytask .
-docker run heytask
+#### docker
+
+> docker build -t heytask .
+> docker run heytask
